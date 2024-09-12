@@ -1,4 +1,4 @@
-# A rate limiter middleware for Guzzle
+# A rate limiter for Guzzle
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/asiadevmedia/guzzle-rate-limiter.svg?style=flat-square)](https://packagist.org/packages/asiadevmedia/guzzle-rate-limiter)
 [![Quality Score](https://img.shields.io/scrutinizer/g/asiadevmedia/guzzle-rate-limiter.svg?style=flat-square)](https://scrutinizer-ci.com/g/asiadevmedia/guzzle-rate-limiter)
@@ -10,14 +10,6 @@ A rate limiter middleware for Guzzle. Here's what you need to know:
 - Specify a maximum amount of requests per minute or per second
 - When the limit is reached, the process will `sleep` until the request can be made
 - Implement your own driver to persist the rate limiter's request store. This is necessary if the rate limiter needs to work across separate processes, the package ships with an `InMemoryStore`.
-
-## Support us
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/guzzle-rate-limiter-middleware.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/guzzle-rate-limiter-middleware)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
 
 ## Installation
 
