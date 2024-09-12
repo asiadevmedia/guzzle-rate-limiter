@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/asiadevmedia/guzzle-rate-limiter.svg?style=flat-square)](https://packagist.org/packages/asiadevmedia/guzzle-rate-limiter)
 [![Quality Score](https://img.shields.io/scrutinizer/g/asiadevmedia/guzzle-rate-limiter.svg?style=flat-square)](https://scrutinizer-ci.com/g/asiadevmedia/guzzle-rate-limiter)
-[![StyleCI](https://github.styleci.io/repos/856453351/shield?branch=master)](https://github.styleci.io/repos/856453351)
+[![StyleCI](https://github.styleci.io/repos/856453351/shield?branch=main)](https://github.styleci.io/repos/856453351)
 [![Total Downloads](https://img.shields.io/packagist/dt/asiadevmedia/guzzle-rate-limiter.svg?style=flat-square)](https://packagist.org/packages/asiadevmedia/guzzle-rate-limiter)
 
 A rate limiter middleware for Guzzle. Here's what you need to know:
