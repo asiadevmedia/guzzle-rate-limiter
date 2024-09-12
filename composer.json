@@ -4,7 +4,7 @@
     "keywords": [
         "spatie",
         "asiadevmedia",
-        "rate-limiter-middleware"
+        "rate-limiter-middleware",
         "guzzle-rate-limiter-middleware"
     ],
     "homepage": "https://github.com/spatie/guzzle-rate-limiter-middleware",
